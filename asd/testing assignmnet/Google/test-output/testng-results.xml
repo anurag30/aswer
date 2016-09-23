@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14483" started-at="2016-06-15T12:09:12Z" finished-at="2016-06-15T12:09:26Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14483" started-at="2016-06-15T12:09:12Z" finished-at="2016-06-15T12:09:26Z">
+      <class name="com.selenium.Ajax_Handle">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.selenium.Ajax_Handle@453ef5b1]" name="setup" is-config="true" duration-ms="2370" started-at="2016-06-15T17:39:12Z" finished-at="2016-06-15T17:39:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Search_Test(java.lang.String)[pri:0, instance:com.selenium.Ajax_Handle@453ef5b1]" name="Search_Test" duration-ms="5899" started-at="2016-06-15T17:39:14Z" data-provider="search-data" finished-at="2016-06-15T17:39:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[selenium webdriver tutorial]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Search_Test -->
+        <test-method status="PASS" signature="Search_Test(java.lang.String)[pri:0, instance:com.selenium.Ajax_Handle@453ef5b1]" name="Search_Test" duration-ms="5653" started-at="2016-06-15T17:39:20Z" data-provider="search-data" finished-at="2016-06-15T17:39:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[auto s]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Search_Test -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.selenium.Ajax_Handle@453ef5b1]" name="tearDown" is-config="true" duration-ms="541" started-at="2016-06-15T17:39:26Z" finished-at="2016-06-15T17:39:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.selenium.Ajax_Handle -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

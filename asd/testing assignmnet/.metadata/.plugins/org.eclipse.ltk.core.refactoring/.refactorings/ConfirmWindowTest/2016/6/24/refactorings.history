@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.selenium&apos; to &apos;PromptWindowSelenium/src&apos;&#x0D;&#x0A;- Original project: &apos;ConfirmWindowTest&apos;&#x0D;&#x0A;- Destination element: &apos;PromptWindowSelenium/src&apos;&#x0D;&#x0A;- Original element: &apos;ConfirmWindowTest/src/com.selenium&apos;" description="Copy package" destination="=PromptWindowSelenium/src" element1="/src&lt;com.selenium" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1465554935461" version="1.0"/>
+</session>

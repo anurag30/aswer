@@ -1,0 +1,35 @@
+[
+	{
+		"sid":1,
+		"firstName":"tyfyrt",
+		"lastName":"Kumar",
+		"sports":true,
+		"dob":"2006-02-20T00:00:00.000Z"
+	},
+	
+	{
+		"sid":2,
+		"firstName":"Suresh",
+		"lastName":"Sharma",
+		"sports":false,
+		"dob":"2015-01-29T00:00:00.000Z"
+	},
+	
+	{
+		"sid":3,
+		"firstName":"Ramesh",
+		"lastName":"raja",
+		"sports":false,
+		"dob":"2015-01-29T00:00:00.000Z"
+	},
+	
+	{
+		"sid":4,
+		"firstName":"Ram",
+		"lastName":"Shri",
+		"sports":false,
+		"dob":"2016-12-29T00:00:00.000Z"
+	},
+]
+
+
